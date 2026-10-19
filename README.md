@@ -41,6 +41,9 @@ Lately I also study horses: how they move, and how their hearts respond to exerc
 - [ib_matlab_2D-peskin](https://github.com/fairyflies9/ib_matlab_2D-peskin): Charlie Peskin's 2D immersed boundary code for MATLAB, with lecture notes.
 - [ibmethod2D-isaacson](https://github.com/fairyflies9/ibmethod2D-isaacson): Sam Isaacson's 2D immersed boundary fluid solver for MATLAB, on a periodic square domain.
 
+**Regularized Stokeslets**
+- [fluidlets](https://github.com/fairyflies9/fluidlets): regularized Stokeslets in Python for flows where viscosity wins (cilia, glycocalyx brushes, swimming cells), with IB2d-style input files, ParaView output, and worked examples checked against published results.
+
 **Models from our research**
 - [JEB-CFD-Review](https://github.com/fairyflies9/JEB-CFD-Review): files for the review "Using computational fluid dynamics to understand fluid-organism interaction" (Santiago, Battista, and Miller): an IBFE model of a venous valve and a fog-desert cactus geometry.
 - [Example-SuctionPumping-VP-AForce](https://github.com/fairyflies9/Example-SuctionPumping-VP-AForce): an IBAMR model of dynamic suction pumping in a 2D tubular heart, driven by actuators.
