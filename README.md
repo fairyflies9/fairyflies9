@@ -27,6 +27,7 @@ Lately I also study horses: how they move, and how their hearts respond to exerc
 
 - **[Using-IB-Software](https://github.com/fairyflies9/Using-IB-Software)**: hands-on tutorials for IB2d, IBAMR (including IBFE), VisIt, and Planktos.
 - **[Fluid-Dynamics-and-IBM-Theory](https://github.com/fairyflies9/Fluid-Dynamics-and-IBM-Theory)**: lecture slides on fluid dynamics, the immersed boundary method, solid mechanics, and turbulence.
+- **[fluidlets](https://github.com/fairyflies9/fluidlets)**: regularized Stokeslets in Python for flows at very small scales, with worked examples and tutorial notebooks.
 - **[Horse Gait Lab and Horse Heart Lab](https://equiphysics.github.io/web-apps/)**: free browser apps built from Duque's strides and heartbeats, on the EquiPhysics account.
 
 ### All my repositories
