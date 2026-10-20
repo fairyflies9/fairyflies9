@@ -27,7 +27,7 @@ Lately I also study horses: how they move, and how their hearts respond to exerc
 
 - **[Using-IB-Software](https://github.com/fairyflies9/Using-IB-Software)**: hands-on tutorials for IB2d, IBAMR (including IBFE), VisIt, and Planktos.
 - **[Fluid-Dynamics-and-IBM-Theory](https://github.com/fairyflies9/Fluid-Dynamics-and-IBM-Theory)**: lecture slides on fluid dynamics, the immersed boundary method, solid mechanics, and turbulence.
-- **[fluidlets](https://github.com/fairyflies9/fluidlets)**: regularized Stokeslets in Python for flows at very small scales, with worked examples and tutorial notebooks.
+- **[fluidlets](https://github.com/fairyflies9/fluidlets)**: regularized Stokeslets and Brinkmanlets in Python for flows at very small scales, from swimming cells and cilia to porous media, with worked examples and tutorial notebooks ([overview](https://fairyflies9.github.io/fluidlets.html)).
 - **[Horse Gait Lab and Horse Heart Lab](https://equiphysics.github.io/web-apps/)**: free browser apps built from Duque's strides and heartbeats, on the EquiPhysics account.
 
 ### All my repositories
@@ -43,7 +43,7 @@ Lately I also study horses: how they move, and how their hearts respond to exerc
 - [ibmethod2D-isaacson](https://github.com/fairyflies9/ibmethod2D-isaacson): Sam Isaacson's 2D immersed boundary fluid solver for MATLAB, on a periodic square domain.
 
 **Regularized Stokeslets**
-- [fluidlets](https://github.com/fairyflies9/fluidlets): regularized Stokeslets in Python for flows where viscosity wins (cilia, glycocalyx brushes, swimming cells), with IB2d-style input files, ParaView output, and worked examples checked against published results.
+- [fluidlets](https://github.com/fairyflies9/fluidlets): regularized Stokeslets and Brinkmanlets in Python for flows where viscosity wins: cilia, glycocalyx brushes, swimming cells, and flow through porous media. It handles no-slip walls and free swimming, reads IB2d-style input files, writes ParaView output, and comes with worked examples checked against published results and four tutorial notebooks. It was the software goal of our NSF Focused Research Group with Michael Minion, Jan Prins, and Jingfang Huang. [Overview with pictures](https://fairyflies9.github.io/fluidlets.html).
 
 **Models from our research**
 - [JEB-CFD-Review](https://github.com/fairyflies9/JEB-CFD-Review): files for the review "Using computational fluid dynamics to understand fluid-organism interaction" (Santiago, Battista, and Miller): an IBFE model of a venous valve and a fog-desert cactus geometry.
