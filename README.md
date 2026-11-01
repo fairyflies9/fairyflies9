@@ -1,12 +1,12 @@
-<a href="https://fairyflies9.github.io/"><img src="images/banner.jpg" alt="Laura Miller, mathematical biologist, University of Arizona, with photos of Duque the horse, an upside-down jellyfish, and a thrips" width="100%"></a>
+<a href="https://fairyflies9.github.io/"><img src="images/banner.png" alt="Laura A. Miller, mathematical biologist, University of Arizona, with photos of Duque the horse, an upside-down jellyfish, and a thrips" width="100%"></a>
 
-## Hi, I'm Laura Miller
+## Hi, I'm Laura A. Miller
 
 I'm a professor of mathematics at the University of Arizona. My lab builds computer models of how animals move through air and water. We study jellyfish, soft corals, the smallest flying insects, ballooning spiders, and tubular hearts. Most of the code here uses the immersed boundary method, where a flexible body and the fluid around it move each other.
 
-Lately I also study horses: how they move, and how their hearts respond to exercise. I founded [EquiPhysics](https://www.equiphysics.org), a small nonprofit in Sonoita, Arizona. Our horses are the teachers in our free math lessons and apps, which live at [github.com/equiphysics](https://github.com/equiphysics).
+Our equine research studies how gait, breathing, and heart activity interact. The program began at the Al-Marah Equine Center in 2023 and moved with the horses to Rancho del Nido in Sonoita in 2026. I founded [EquiPhysics](https://www.equiphysics.org), a small nonprofit in Sonoita, Arizona. Our horses are the teachers in our free math lessons and apps, which live at [github.com/equiphysics](https://github.com/equiphysics).
 
-[Website](https://fairyflies9.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=zrKC-PcAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3707-9798) · [LinkedIn](https://www.linkedin.com/in/laura-miller-equiphysics/) · [EquiPhysics](https://www.equiphysics.org)
+[Website](https://fairyflies9.github.io/) · [Speaking & Media](https://fairyflies9.github.io/speaking.html) · [Google Scholar](https://scholar.google.com/citations?user=zrKC-PcAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-3707-9798) · [LinkedIn](https://www.linkedin.com/in/laura-miller-equiphysics/) · [EquiPhysics](https://www.equiphysics.org)
 
 ### Research in pictures
 
